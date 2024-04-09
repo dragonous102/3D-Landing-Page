@@ -1,0 +1,2443 @@
+{
+  "asset": {
+    "generator": "UnityGLTF",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_texture_transform",
+    "KHR_lights_punctual"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        19,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "name": "Demo_Scene_D"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1631,
+      "type": "VEC3",
+      "max": [
+        0.0068784388713538647,
+        0.00907055288553238,
+        0.0075034103356301785
+      ],
+      "min": [
+        -0.0064142835326492786,
+        -0.00558127136901021,
+        -0.0055444464087486267
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1631,
+      "type": "VEC3",
+      "max": [
+        0.99774158000946045,
+        0.98715323209762573,
+        0.9925994873046875
+      ],
+      "min": [
+        -0.99739420413970947,
+        -0.99628579616546631,
+        -0.99987733364105225
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1631,
+      "type": "VEC4",
+      "max": [
+        0.99999910593032837,
+        0.93588703870773315,
+        0.99966710805892944,
+        1.0
+      ],
+      "min": [
+        -0.99968153238296509,
+        -0.81800752878189087,
+        -0.99999243021011353,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1631,
+      "type": "VEC2",
+      "max": [
+        1.0479846000671387,
+        0.96649318933486938
+      ],
+      "min": [
+        0.0074441432952880859,
+        0.022214174270629883
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 9204,
+      "type": "SCALAR",
+      "max": [
+        1630.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 81,
+      "type": "VEC3",
+      "max": [
+        43.20220947265625,
+        73.5,
+        43.202217102050781
+      ],
+      "min": [
+        -43.202217102050781,
+        59.462749481201172,
+        -43.202232360839844
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 81,
+      "type": "VEC3",
+      "max": [
+        0.52249407768249512,
+        -0.85264003276824951,
+        0.52249854803085327
+      ],
+      "min": [
+        -0.5224987268447876,
+        -1.0,
+        -0.52249866724014282
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 81,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.52249413728713989,
+        0.0028178670909255743,
+        1.0
+      ],
+      "min": [
+        0.85264003276824951,
+        -0.5224987268447876,
+        -0.0038373218849301338,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 81,
+      "type": "VEC2",
+      "max": [
+        0.99800783395767212,
+        0.99800801277160645
+      ],
+      "min": [
+        0.0019920316990464926,
+        0.00199204683303833
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5121,
+      "count": 420,
+      "type": "SCALAR",
+      "max": [
+        80.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 41,
+      "type": "VEC3",
+      "max": [
+        22.712751388549805,
+        73.5,
+        22.712753295898438
+      ],
+      "min": [
+        -22.71275520324707,
+        69.90264892578125,
+        -22.712760925292969
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 41,
+      "type": "VEC3",
+      "max": [
+        0.23344460129737854,
+        -0.97236800193786621,
+        0.23344585299491882
+      ],
+      "min": [
+        -0.23344601690769196,
+        -1.0,
+        -0.23344637453556061
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 41,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.23344458639621735,
+        0.0028179532382637262,
+        1.0
+      ],
+      "min": [
+        0.97236979007720947,
+        -0.23344601690769196,
+        -0.0034222302492707968,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 41,
+      "type": "VEC2",
+      "max": [
+        0.99800795316696167,
+        0.99800801277160645
+      ],
+      "min": [
+        0.0019920319318771362,
+        0.00199204683303833
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5121,
+      "count": 180,
+      "type": "SCALAR",
+      "max": [
+        40.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 437,
+      "type": "VEC3",
+      "max": [
+        75.0,
+        75.0,
+        75.000007629394531
+      ],
+      "min": [
+        -75.000015258789063,
+        -75.0,
+        -75.000030517578125
+      ]
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 437,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 437,
+      "type": "VEC4",
+      "max": [
+        0.9965595006942749,
+        0.98219841718673706,
+        0.80605399608612061,
+        1.0
+      ],
+      "min": [
+        -0.99842101335525513,
+        -0.9639592170715332,
+        -0.61787950992584229,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 437,
+      "type": "VEC2",
+      "max": [
+        0.98113411664962769,
+        0.98139113187789917
+      ],
+      "min": [
+        0.047214441001415253,
+        0.014720380306243896
+      ]
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5123,
+      "count": 2280,
+      "type": "SCALAR",
+      "max": [
+        436.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 515,
+      "type": "VEC3",
+      "max": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "min": [
+        -0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 515,
+      "type": "VEC3",
+      "max": [
+        0.99997496604919434,
+        1.0,
+        0.9999769926071167
+      ],
+      "min": [
+        -0.99997496604919434,
+        -1.0,
+        -0.99997353553771973
+      ]
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 515,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.056131001561880112,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.065983392298221588,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 515,
+      "type": "VEC2",
+      "max": [
+        0.99833369255065918,
+        0.98237103223800659
+      ],
+      "min": [
+        -0.00092136859893798828,
+        0.024108767509460449
+      ]
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5126,
+      "count": 515,
+      "type": "VEC2",
+      "max": [
+        1.0000003576278687,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.34614646434783936
+      ]
+    },
+    {
+      "bufferView": 25,
+      "componentType": 5123,
+      "count": 2304,
+      "type": "SCALAR",
+      "max": [
+        514.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 26,
+      "componentType": 5126,
+      "count": 674,
+      "type": "VEC3",
+      "max": [
+        3.1091811656951904,
+        3.1155152320861816,
+        3.1032626628875732
+      ],
+      "min": [
+        -3.0847885608673096,
+        -3.1155028343200684,
+        -3.1032192707061768
+      ]
+    },
+    {
+      "bufferView": 27,
+      "componentType": 5126,
+      "count": 674,
+      "type": "VEC3",
+      "max": [
+        0.99807429313659668,
+        1.0,
+        0.99609130620956421
+      ],
+      "min": [
+        -0.99020582437515259,
+        -1.0,
+        -0.996094286441803
+      ]
+    },
+    {
+      "bufferView": 28,
+      "componentType": 5126,
+      "count": 674,
+      "type": "VEC4",
+      "max": [
+        0.998032808303833,
+        0.062877453863620758,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.99803227186203,
+        -0.063013099133968353,
+        -1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 29,
+      "componentType": 5126,
+      "count": 674,
+      "type": "VEC2",
+      "max": [
+        1.0000001192092896,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 30,
+      "componentType": 5123,
+      "count": 3600,
+      "type": "SCALAR",
+      "max": [
+        673.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 31,
+      "componentType": 5126,
+      "count": 1593,
+      "type": "VEC3",
+      "max": [
+        0.00500359246507287,
+        0.006665173452347517,
+        0.008841339498758316
+      ],
+      "min": [
+        -0.0077701262198388577,
+        -0.0068625519052147865,
+        -0.0098150856792926788
+      ]
+    },
+    {
+      "bufferView": 32,
+      "componentType": 5126,
+      "count": 1593,
+      "type": "VEC3",
+      "max": [
+        0.99860817193984985,
+        0.99997818470001221,
+        0.99724739789962769
+      ],
+      "min": [
+        -0.9996345043182373,
+        -0.99895954132080078,
+        -0.99685209989547729
+      ]
+    },
+    {
+      "bufferView": 33,
+      "componentType": 5126,
+      "count": 1593,
+      "type": "VEC4",
+      "max": [
+        0.99997442960739136,
+        0.44669356942176819,
+        0.99986767768859863,
+        1.0
+      ],
+      "min": [
+        -0.99994218349456787,
+        -0.49489748477935791,
+        -0.99994397163391113,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 34,
+      "componentType": 5126,
+      "count": 1593,
+      "type": "VEC2",
+      "max": [
+        1.0169243812561035,
+        0.95765995979309082
+      ],
+      "min": [
+        0.0041716098785400391,
+        0.02108311653137207
+      ]
+    },
+    {
+      "bufferView": 35,
+      "componentType": 5123,
+      "count": 9204,
+      "type": "SCALAR",
+      "max": [
+        1592.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 36,
+      "componentType": 5126,
+      "count": 674,
+      "type": "VEC3",
+      "max": [
+        3.1093358993530273,
+        3.1155152320861816,
+        3.1032567024230957
+      ],
+      "min": [
+        -3.0848779678344727,
+        -3.1155028343200684,
+        -3.1032252311706543
+      ]
+    },
+    {
+      "bufferView": 37,
+      "componentType": 5126,
+      "count": 674,
+      "type": "VEC3",
+      "max": [
+        0.99806243181228638,
+        1.0,
+        0.99609369039535522
+      ],
+      "min": [
+        -0.99019545316696167,
+        -1.0,
+        -0.9960905909538269
+      ]
+    },
+    {
+      "bufferView": 38,
+      "componentType": 5126,
+      "count": 674,
+      "type": "VEC4",
+      "max": [
+        0.99803268909454346,
+        0.0628020167350769,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.99803382158279419,
+        -0.06280924379825592,
+        -1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 39,
+      "componentType": 5126,
+      "count": 674,
+      "type": "VEC2",
+      "max": [
+        1.0000001192092896,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 40,
+      "componentType": 5123,
+      "count": 3600,
+      "type": "SCALAR",
+      "max": [
+        673.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 41,
+      "componentType": 5126,
+      "count": 81,
+      "type": "VEC3",
+      "max": [
+        43.20220947265625,
+        73.5,
+        43.202217102050781
+      ],
+      "min": [
+        -43.202217102050781,
+        59.462749481201172,
+        -43.202232360839844
+      ]
+    },
+    {
+      "bufferView": 42,
+      "componentType": 5126,
+      "count": 81,
+      "type": "VEC3",
+      "max": [
+        0.52249407768249512,
+        -0.85264003276824951,
+        0.52249854803085327
+      ],
+      "min": [
+        -0.5224987268447876,
+        -1.0,
+        -0.52249866724014282
+      ]
+    },
+    {
+      "bufferView": 43,
+      "componentType": 5126,
+      "count": 81,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.52249413728713989,
+        0.0028178670909255743,
+        1.0
+      ],
+      "min": [
+        0.85264003276824951,
+        -0.5224987268447876,
+        -0.0038373218849301338,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 44,
+      "componentType": 5126,
+      "count": 81,
+      "type": "VEC2",
+      "max": [
+        0.99800783395767212,
+        0.99800801277160645
+      ],
+      "min": [
+        0.0019920316990464926,
+        0.00199204683303833
+      ]
+    },
+    {
+      "bufferView": 45,
+      "componentType": 5121,
+      "count": 420,
+      "type": "SCALAR",
+      "max": [
+        80.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Demo_Scene_D.bin",
+      "byteLength": 340420
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 19572,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19572,
+      "byteLength": 19572,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 39144,
+      "byteLength": 26096,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 65240,
+      "byteLength": 13048,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 78288,
+      "byteLength": 18408,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 96696,
+      "byteLength": 972,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 97668,
+      "byteLength": 972,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 98640,
+      "byteLength": 1296,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 99936,
+      "byteLength": 648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 100584,
+      "byteLength": 420,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 101004,
+      "byteLength": 492,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 101496,
+      "byteLength": 492,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 101988,
+      "byteLength": 656,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 102644,
+      "byteLength": 328,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 102972,
+      "byteLength": 180,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 103152,
+      "byteLength": 5244,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 108396,
+      "byteLength": 5244,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 113640,
+      "byteLength": 6992,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 120632,
+      "byteLength": 3496,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 124128,
+      "byteLength": 4560,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 128688,
+      "byteLength": 6180,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 134868,
+      "byteLength": 6180,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 141048,
+      "byteLength": 8240,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 149288,
+      "byteLength": 4120,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 153408,
+      "byteLength": 4120,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 157528,
+      "byteLength": 4608,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 162136,
+      "byteLength": 8088,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 170224,
+      "byteLength": 8088,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 178312,
+      "byteLength": 10784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 189096,
+      "byteLength": 5392,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 194488,
+      "byteLength": 7200,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 201688,
+      "byteLength": 19116,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 220804,
+      "byteLength": 19116,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 239920,
+      "byteLength": 25488,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 265408,
+      "byteLength": 12744,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 278152,
+      "byteLength": 18408,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 296560,
+      "byteLength": 8088,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 304648,
+      "byteLength": 8088,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 312736,
+      "byteLength": 10784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 323520,
+      "byteLength": 5392,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 328912,
+      "byteLength": 7200,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 336112,
+      "byteLength": 972,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 337084,
+      "byteLength": 972,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 338056,
+      "byteLength": 1296,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 339352,
+      "byteLength": 648,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 340000,
+      "byteLength": 420,
+      "target": 34963
+    }
+  ],
+  "cameras": [
+    {
+      "perspective": {
+        "aspectRatio": 2.121387243270874,
+        "yfov": 1.0471975803375244,
+        "zfar": 1000.1340942382813,
+        "znear": 0.30000001192092896
+      },
+      "type": "perspective",
+      "name": "Main Camera"
+    }
+  ],
+  "images": [
+    {
+      "uri": "Asteroid_G.jpg",
+      "name": "Asteroid_G"
+    },
+    {
+      "uri": "Asteroid_NRM.jpg",
+      "name": "Asteroid_NRM"
+    },
+    {
+      "uri": "Asteroid_G.jpg",
+      "name": "Asteroid_G"
+    },
+    {
+      "uri": "Asteroid_G.jpg",
+      "name": "Asteroid_G"
+    },
+    {
+      "uri": "Nebula_DE.jpg",
+      "name": "Nebula_DE"
+    },
+    {
+      "uri": "Galaxy_A.jpg",
+      "name": "Galaxy_A"
+    },
+    {
+      "uri": "Skybox_A.jpg",
+      "name": "Skybox_A"
+    },
+    {
+      "uri": "Skybox_A.png",
+      "name": "Skybox_A"
+    },
+    {
+      "uri": "Skybox_A.jpg",
+      "name": "Skybox_A"
+    },
+    {
+      "uri": "Nebula_B.jpg",
+      "name": "Nebula_B"
+    },
+    {
+      "uri": "Sun.jpg",
+      "name": "Sun"
+    },
+    {
+      "uri": "Sun_NRM.jpg",
+      "name": "Sun_NRM"
+    },
+    {
+      "uri": "Sun.jpg",
+      "name": "Sun"
+    },
+    {
+      "uri": "Sun.jpg",
+      "name": "Sun"
+    },
+    {
+      "uri": "Nebula_D.jpg",
+      "name": "Nebula_D"
+    },
+    {
+      "uri": "Planet_B.jpg",
+      "name": "Planet_B"
+    },
+    {
+      "uri": "Planet_B_NRM.jpg",
+      "name": "Planet_B_NRM"
+    },
+    {
+      "uri": "Planet_B.jpg",
+      "name": "Planet_B"
+    },
+    {
+      "uri": "Planet_B.jpg",
+      "name": "Planet_B"
+    },
+    {
+      "uri": "Asteroid_H.jpg",
+      "name": "Asteroid_H"
+    },
+    {
+      "uri": "Asteroid_H.jpg",
+      "name": "Asteroid_H"
+    },
+    {
+      "uri": "Asteroid_H.jpg",
+      "name": "Asteroid_H"
+    },
+    {
+      "uri": "Nebula_DEF.jpg",
+      "name": "Nebula_DEF"
+    },
+    {
+      "uri": "Planet_K.jpg",
+      "name": "Planet_K"
+    },
+    {
+      "uri": "Planet_K_NRM.jpg",
+      "name": "Planet_K_NRM"
+    },
+    {
+      "uri": "Planet_K.png",
+      "name": "Planet_K"
+    },
+    {
+      "uri": "Planet_K.jpg",
+      "name": "Planet_K"
+    },
+    {
+      "uri": "Galaxy_K.jpg",
+      "name": "Galaxy_K"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.59999999403953552
+      },
+      "normalTexture": {
+        "index": 1,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "occlusionTexture": {
+        "index": 3,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "emissiveTexture": {
+        "index": 0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Asteroid_G"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Nebula_DE"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 5,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Galaxy_A"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                0.0,
+                -3.0
+              ],
+              "scale": [
+                4.0,
+                4.0
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicRoughnessTexture": {
+          "index": 8,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                0.0,
+                -3.0
+              ],
+              "scale": [
+                4.0,
+                4.0
+              ],
+              "texCoord": 0
+            }
+          }
+        }
+      },
+      "occlusionTexture": {
+        "strength": 0.0,
+        "index": 8,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              0.0,
+              -3.0
+            ],
+            "scale": [
+              4.0,
+              4.0
+            ],
+            "texCoord": 0
+          }
+        }
+      },
+      "emissiveTexture": {
+        "index": 6,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              0.0,
+              -3.0
+            ],
+            "scale": [
+              4.0,
+              4.0
+            ],
+            "texCoord": 0
+          }
+        }
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "name": "Skybox_A"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 9,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Nebula_B"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5106334,
+          0.5225216,
+          0.030969914,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 12,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "normalTexture": {
+        "index": 11,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "occlusionTexture": {
+        "index": 13,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "emissiveTexture": {
+        "index": 10,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "name": "Sun"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 14,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Nebula_D"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 17,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.89999999850988388
+      },
+      "normalTexture": {
+        "index": 16,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "occlusionTexture": {
+        "index": 18,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "emissiveTexture": {
+        "index": 15,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Planet_B"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 20,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.59999999403953552
+      },
+      "normalTexture": {
+        "index": 1,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "occlusionTexture": {
+        "index": 21,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "emissiveTexture": {
+        "index": 19,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Asteroid_H"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 22,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Nebula_DEF"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 25,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.89999999850988388
+      },
+      "normalTexture": {
+        "index": 24,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "occlusionTexture": {
+        "index": 26,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "emissiveTexture": {
+        "index": 23,
+        "extensions": {
+          "KHR_texture_transform": {
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Planet_K"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 27,
+          "extensions": {
+            "KHR_texture_transform": {
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Galaxy_K"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "Asteroid_G"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1
+        }
+      ],
+      "name": "Nebula_Large 2"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2
+        }
+      ],
+      "name": "Galaxy_Small"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 15,
+            "NORMAL": 16,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 3
+        }
+      ],
+      "name": "Skybox_A"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23,
+            "TEXCOORD_1": 24
+          },
+          "indices": 25,
+          "material": 4
+        }
+      ],
+      "name": "Supernova_B"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23,
+            "TEXCOORD_1": 24
+          },
+          "indices": 25,
+          "material": 5
+        }
+      ],
+      "name": "Sun"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23,
+            "TEXCOORD_1": 24
+          },
+          "indices": 25,
+          "material": 6
+        }
+      ],
+      "name": "Outer Glow"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 26,
+            "NORMAL": 27,
+            "TANGENT": 28,
+            "TEXCOORD_0": 29
+          },
+          "indices": 30,
+          "material": 7
+        }
+      ],
+      "name": "Planet_B"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 31,
+            "NORMAL": 32,
+            "TANGENT": 33,
+            "TEXCOORD_0": 34
+          },
+          "indices": 35,
+          "material": 8
+        }
+      ],
+      "name": "Asteroid_H"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 9
+        }
+      ],
+      "name": "Nebula_Large 3"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 36,
+            "NORMAL": 37,
+            "TANGENT": 38,
+            "TEXCOORD_0": 39
+          },
+          "indices": 40,
+          "material": 10
+        }
+      ],
+      "name": "Planet_K"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 41,
+            "NORMAL": 42,
+            "TANGENT": 43,
+            "TEXCOORD_0": 44
+          },
+          "indices": 45,
+          "material": 11
+        }
+      ],
+      "name": "Galaxy_Large"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "rotation": [
+        0.12832348,
+        0.2883891,
+        0.481852531,
+        -0.817424655
+      ],
+      "scale": [
+        200.487534,
+        200.487625,
+        200.487625
+      ],
+      "translation": [
+        -12.2,
+        3.6,
+        -55.4
+      ],
+      "name": "Asteroid_G"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.7937623,
+        -0.592349946,
+        -0.07683329,
+        -0.114715785
+      ],
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "name": "Nebula_Large 2"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.422793478,
+        0.185481369,
+        0.8844977,
+        -0.0671286061
+      ],
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "name": "Nebula_Large 7"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        -0.6927014,
+        0.336263925,
+        0.6365372,
+        -0.043723844
+      ],
+      "scale": [
+        200.487534,
+        200.487625,
+        200.487625
+      ],
+      "translation": [
+        -1.44,
+        3.6,
+        -53.17
+      ],
+      "name": "Asteroid_G 1"
+    },
+    {
+      "mesh": 2,
+      "rotation": [
+        0.897484064,
+        -0.06276384,
+        0.326321453,
+        0.28999567
+      ],
+      "scale": [
+        0.520403862,
+        0.5204039,
+        0.5204039
+      ],
+      "translation": [
+        -15.8,
+        34.0,
+        -17.9
+      ],
+      "name": "Galaxy_Small"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.672744334,
+        0.676139235,
+        0.2014029,
+        -0.222907677
+      ],
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "name": "Nebula_Large 6"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.389512628,
+        -0.313858539,
+        0.415700316,
+        0.7595828
+      ],
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "name": "Nebula_Large"
+    },
+    {
+      "mesh": 3,
+      "name": "Skybox_A"
+    },
+    {
+      "children": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "mesh": 4,
+      "rotation": [
+        0.20083189,
+        -0.373923063,
+        -0.243476927,
+        0.872105
+      ],
+      "scale": [
+        38.7035255,
+        10.0,
+        10.0
+      ],
+      "translation": [
+        37.7,
+        -26.7,
+        39.8
+      ],
+      "name": "Supernova_B"
+    },
+    {
+      "mesh": 4,
+      "scale": [
+        1.01000011,
+        1.01000011,
+        1.01000011
+      ],
+      "name": "Sphere 1"
+    },
+    {
+      "mesh": 4,
+      "scale": [
+        1.02,
+        1.02,
+        1.02
+      ],
+      "name": "Sphere 2"
+    },
+    {
+      "mesh": 4,
+      "scale": [
+        1.03000009,
+        1.03000009,
+        1.03000009
+      ],
+      "name": "Sphere 3"
+    },
+    {
+      "mesh": 4,
+      "scale": [
+        1.04,
+        1.04,
+        1.04
+      ],
+      "name": "Sphere 4"
+    },
+    {
+      "mesh": 4,
+      "scale": [
+        1.05000007,
+        1.05000007,
+        1.05000007
+      ],
+      "name": "Sphere 5"
+    },
+    {
+      "mesh": 4,
+      "scale": [
+        1.06000006,
+        1.06000006,
+        1.06000006
+      ],
+      "name": "Sphere 6"
+    },
+    {
+      "mesh": 4,
+      "scale": [
+        1.07,
+        1.07,
+        1.07
+      ],
+      "name": "Sphere 7"
+    },
+    {
+      "mesh": 4,
+      "scale": [
+        1.08,
+        1.08,
+        1.08
+      ],
+      "name": "Sphere 8"
+    },
+    {
+      "mesh": 4,
+      "scale": [
+        1.09,
+        1.09,
+        1.09
+      ],
+      "name": "Sphere 9"
+    },
+    {
+      "mesh": 4,
+      "scale": [
+        1.1,
+        1.1,
+        1.1
+      ],
+      "name": "Sphere 10"
+    },
+    {
+      "children": [
+        20,
+        21
+      ],
+      "mesh": 5,
+      "scale": [
+        20.0,
+        20.0,
+        20.0
+      ],
+      "translation": [
+        -28.1,
+        23.3,
+        50.56
+      ],
+      "name": "Sun"
+    },
+    {
+      "rotation": [
+        -0.7071068,
+        0.0,
+        0.0,
+        0.7071068
+      ],
+      "scale": [
+        0.05,
+        0.0500000045,
+        0.0500000045
+      ],
+      "name": "Sun_Fire"
+    },
+    {
+      "children": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "mesh": 6,
+      "name": "Outer Glow"
+    },
+    {
+      "mesh": 6,
+      "scale": [
+        1.01000011,
+        1.01000011,
+        1.01000011
+      ],
+      "name": "Sphere 1"
+    },
+    {
+      "mesh": 6,
+      "scale": [
+        1.02,
+        1.02,
+        1.02
+      ],
+      "name": "Sphere 2"
+    },
+    {
+      "mesh": 6,
+      "scale": [
+        1.03000009,
+        1.03000009,
+        1.03000009
+      ],
+      "name": "Sphere 3"
+    },
+    {
+      "mesh": 6,
+      "scale": [
+        1.04,
+        1.04,
+        1.04
+      ],
+      "name": "Sphere 4"
+    },
+    {
+      "mesh": 6,
+      "scale": [
+        1.05000007,
+        1.05000007,
+        1.05000007
+      ],
+      "name": "Sphere 5"
+    },
+    {
+      "mesh": 6,
+      "scale": [
+        1.06000006,
+        1.06000006,
+        1.06000006
+      ],
+      "name": "Sphere 6"
+    },
+    {
+      "mesh": 6,
+      "scale": [
+        1.07,
+        1.07,
+        1.07
+      ],
+      "name": "Sphere 7"
+    },
+    {
+      "mesh": 6,
+      "scale": [
+        1.08,
+        1.08,
+        1.08
+      ],
+      "name": "Sphere 8"
+    },
+    {
+      "mesh": 6,
+      "scale": [
+        1.09,
+        1.09,
+        1.09
+      ],
+      "name": "Sphere 9"
+    },
+    {
+      "mesh": 6,
+      "scale": [
+        1.1,
+        1.1,
+        1.1
+      ],
+      "name": "Sphere 10"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        10.1,
+        3.26,
+        -57.48
+      ],
+      "name": "Planet_B"
+    },
+    {
+      "mesh": 8,
+      "scale": [
+        107.162117,
+        107.16217,
+        107.16217
+      ],
+      "translation": [
+        5.31,
+        4.75,
+        -60.69
+      ],
+      "name": "Asteroid_H"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        -0.829807758,
+        -0.0310880169,
+        0.361495167,
+        0.423997581
+      ],
+      "scale": [
+        200.487534,
+        200.487625,
+        200.487625
+      ],
+      "translation": [
+        4.64,
+        -4.1,
+        -53.17
+      ],
+      "name": "Asteroid_G 2"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.6979122,
+        0.298385859,
+        0.278071374,
+        0.588694155
+      ],
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "name": "Nebula_Large 4"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.234566167,
+        0.119989268,
+        0.147812739,
+        0.9532747
+      ],
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "name": "Nebula_Large 1"
+    },
+    {
+      "mesh": 9,
+      "rotation": [
+        0.6535202,
+        -0.06838062,
+        0.5821533,
+        0.47888723
+      ],
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "name": "Nebula_Large 3"
+    },
+    {
+      "translation": [
+        0.0,
+        8.27,
+        -66.87
+      ],
+      "name": "Asteroids_Dense_B"
+    },
+    {
+      "mesh": 9,
+      "rotation": [
+        0.421357155,
+        0.3705403,
+        -0.137313083,
+        0.816274
+      ],
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "name": "Nebula_Large 5"
+    },
+    {
+      "mesh": 10,
+      "translation": [
+        29.2,
+        7.9,
+        -14.7
+      ],
+      "name": "Planet_K"
+    },
+    {
+      "mesh": 11,
+      "rotation": [
+        0.5569776,
+        0.530017138,
+        0.6387602,
+        -0.02903828
+      ],
+      "name": "Galaxy_Large"
+    },
+    {
+      "camera": 0,
+      "rotation": [
+        0.0,
+        0.9952366,
+        0.09748988,
+        0.0
+      ],
+      "translation": [
+        0.0,
+        9.42,
+        -70.98
+      ],
+      "name": "Main Camera"
+    },
+    {
+      "rotation": [
+        -0.0842952356,
+        0.5655816,
+        0.513604,
+        -0.639705241
+      ],
+      "translation": [
+        -25.87,
+        26.67,
+        47.46
+      ],
+      "name": "Directional Light",
+      "extensions": {
+        "KHR_lights_punctual": {
+          "light": 0
+        }
+      }
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9987
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "Asteroid_G"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "Asteroid_NRM"
+    },
+    {
+      "sampler": 0,
+      "source": 2,
+      "name": "Asteroid_G"
+    },
+    {
+      "sampler": 0,
+      "source": 3,
+      "name": "Asteroid_G"
+    },
+    {
+      "sampler": 0,
+      "source": 4,
+      "name": "Nebula_DE"
+    },
+    {
+      "sampler": 0,
+      "source": 5,
+      "name": "Galaxy_A"
+    },
+    {
+      "sampler": 0,
+      "source": 6,
+      "name": "Skybox_A"
+    },
+    {
+      "sampler": 0,
+      "source": 7,
+      "name": "Skybox_A"
+    },
+    {
+      "sampler": 0,
+      "source": 8,
+      "name": "Skybox_A"
+    },
+    {
+      "sampler": 0,
+      "source": 9,
+      "name": "Nebula_B"
+    },
+    {
+      "sampler": 0,
+      "source": 10,
+      "name": "Sun"
+    },
+    {
+      "sampler": 0,
+      "source": 11,
+      "name": "Sun_NRM"
+    },
+    {
+      "sampler": 0,
+      "source": 12,
+      "name": "Sun"
+    },
+    {
+      "sampler": 0,
+      "source": 13,
+      "name": "Sun"
+    },
+    {
+      "sampler": 0,
+      "source": 14,
+      "name": "Nebula_D"
+    },
+    {
+      "sampler": 0,
+      "source": 15,
+      "name": "Planet_B"
+    },
+    {
+      "sampler": 0,
+      "source": 16,
+      "name": "Planet_B_NRM"
+    },
+    {
+      "sampler": 0,
+      "source": 17,
+      "name": "Planet_B"
+    },
+    {
+      "sampler": 0,
+      "source": 18,
+      "name": "Planet_B"
+    },
+    {
+      "sampler": 0,
+      "source": 19,
+      "name": "Asteroid_H"
+    },
+    {
+      "sampler": 0,
+      "source": 20,
+      "name": "Asteroid_H"
+    },
+    {
+      "sampler": 0,
+      "source": 21,
+      "name": "Asteroid_H"
+    },
+    {
+      "sampler": 0,
+      "source": 22,
+      "name": "Nebula_DEF"
+    },
+    {
+      "sampler": 0,
+      "source": 23,
+      "name": "Planet_K"
+    },
+    {
+      "sampler": 0,
+      "source": 24,
+      "name": "Planet_K_NRM"
+    },
+    {
+      "sampler": 0,
+      "source": 25,
+      "name": "Planet_K"
+    },
+    {
+      "sampler": 0,
+      "source": 26,
+      "name": "Planet_K"
+    },
+    {
+      "sampler": 0,
+      "source": 27,
+      "name": "Galaxy_K"
+    }
+  ],
+  "extensions": {
+    "KHR_lights_punctual": {
+      "lights": [
+        {
+          "type": "directional",
+          "intensity": 3.14159274,
+          "name": "Directional Light",
+          "color": [
+            1.0,
+            0.904661357,
+            0.6724432
+          ]
+        }
+      ]
+    }
+  }
+}
